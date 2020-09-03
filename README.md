@@ -1,4 +1,5 @@
 # DevOps-aula04
 Pantera Negra
-As Branquelas
+Ford vs. Ferrari
 Vingadores: Guerra Infinita
+Godzilla 2: Rei dos Monstros
